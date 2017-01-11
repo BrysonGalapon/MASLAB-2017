@@ -1,0 +1,8 @@
+prefix=/home/maslab/MASLAB-2017/catkin_ws/devel
+
+Name: maslab2017
+Description: Description of maslab2017
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/maslab/MASLAB-2017/catkin_ws/devel/lib 
+Requires: 

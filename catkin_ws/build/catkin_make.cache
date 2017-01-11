@@ -1,2 +1,2 @@
-
+beginner_tutorials:maslab2017
 -DCATKIN_DEVEL_PREFIX=/home/maslab/MASLAB-2017/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/maslab/MASLAB-2017/catkin_ws/install -G Unix Makefiles

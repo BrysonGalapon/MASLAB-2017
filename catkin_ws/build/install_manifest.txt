@@ -1,0 +1,10 @@
+/home/maslab/MASLAB-2017/catkin_ws/install/_setup_util.py
+/home/maslab/MASLAB-2017/catkin_ws/install/env.sh
+/home/maslab/MASLAB-2017/catkin_ws/install/setup.bash
+/home/maslab/MASLAB-2017/catkin_ws/install/setup.sh
+/home/maslab/MASLAB-2017/catkin_ws/install/setup.zsh
+/home/maslab/MASLAB-2017/catkin_ws/install/.rosinstall
+/home/maslab/MASLAB-2017/catkin_ws/install/lib/pkgconfig/beginner_tutorials.pc
+/home/maslab/MASLAB-2017/catkin_ws/install/share/beginner_tutorials/cmake/beginner_tutorialsConfig.cmake
+/home/maslab/MASLAB-2017/catkin_ws/install/share/beginner_tutorials/cmake/beginner_tutorialsConfig-version.cmake
+/home/maslab/MASLAB-2017/catkin_ws/install/share/beginner_tutorials/package.xml
