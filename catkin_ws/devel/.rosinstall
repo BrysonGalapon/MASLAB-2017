@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/maslab/MASLAB-2017/catkin_ws/devel/setup.sh
